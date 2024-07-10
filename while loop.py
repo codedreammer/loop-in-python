@@ -12,3 +12,13 @@ while (count > 0):
   count = count -1 
 else:
   print ("I am inside else")
+  
+ #"else statement in while loop"
+i = 1
+while i < 6:
+  print(i)
+  i += 1
+else:
+  print("i is no longer less than 6")
+  
+  
